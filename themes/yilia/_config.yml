@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-  #相册: /photos
+  日记: /tags/日记/
 
 # SubNav
 subnav:
@@ -68,7 +68,7 @@ google_analytics: false
 favicon: /assets/img/favicon.ico
 
 #你的头像url
-avatar: /assets/img/photo.jpg
+avatar: /assets/img/photo.jpeg
 
 #是否开启分享
 share_jia: true
