@@ -126,3 +126,7 @@ friends:
   我的CSDN博客: http://blog.csdn.net/zhengjf9/
 
 aboutme: 中山大学软件工程，15级 ，热爱生活，热爱编程，折腾过C，C++，Java，Web，Android，Python，cocos2d-x，Unity3D， UWP，数据库，算法……
+         建立这个博客，有三方面的原因：首先，是为了给自己提供一个思考和总结的机会，避免浑浑噩噩地埋头苦干；其次，用过国内的许多技术博客，
+         体验都不是很好，所以当听说有hexo + github pages这种方式可以简便地DIY自己的博客时，就毫不犹豫地做了一个；最后，如果可能的话，也希望
+         能够通过这个博客与兴趣相同的朋友一起讨论、学习，共同进步！
+post_asset_folder: true
